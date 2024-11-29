@@ -1,6 +1,7 @@
 # AI Image Analysis Backend
 
 Backend server for the AI Image Analysis application, built with Node.js, Express, and OpenAI's Vision API.
+Frontend server repo : https://github.com/amiril84/image-tagging-frontend
 
 ## Features
 
